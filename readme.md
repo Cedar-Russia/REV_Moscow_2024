@@ -10,5 +10,5 @@ The raw data were processed by us to get a .csv file convenient for the analysis
 
 There were 45 constituencies in Moscow. The numbers in the data from observer.mos.ru do not match the numbers of the constituencies used in the official reports and announcements. The mapping to the official names of the constituencies can be found in a separate file **constituencies_mapping.json**. 
 
-The file **Data processing.ipynb** consists of the processing of the raw data to the final .csv table and the code to produce data for the visualizations used for the [publication in Novaya Gazeta Europe](https://novayagazeta.eu/articles/2024/09/10/nedokrutili). 
+The file **Data processing.ipynb** consists of the processing of the raw data to the final .csv table and the code to produce data for the visualizations used for the [publication in Novaya Gazeta Europe](https://novayagazeta.eu/articles/2024/09/10/nedokrutili). **_Additionally, the plots for candidates' results dynamics in all 45 constituencies are presented in this file._**
 
