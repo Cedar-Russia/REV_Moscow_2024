@@ -1,8 +1,8 @@
 # Analysis of Moscow City Duma 2024 E-voting
 
-The original data were acquired from the official portal for e-voting observers observer.mos.ru by an anonymous e-voting observer. The data consisted of all of the transactions that have entered the system. The raw data are stored [here](https://data.deg.observer/2024/msk-autumn/), in the format of multiple JSON files, hourly downloaded from the portal.
+The original data were acquired from the official portal for e-voting observers observer.mos.ru by e-voting observer Alexander Isavnin. The data consisted of all of the transactions that have entered the system. The raw data are stored [here](https://data.deg.observer/2024/msk-autumn/), in the format of multiple JSON files, hourly downloaded from the portal.
 
-The raw data were processed by us to get a .csv file convenient for the analysis, it can be found in **results.csv.zip**. It consists of decrypted votes. The decryption was realized by the Moscow DIT (Department of Information Technology) -- the developer of the Moscow e-voting system. The file consists of the following columns:
+The raw data were processed by data journalist and researcher Alesya Sokolova to get a .csv file convenient for the analysis, it can be found in **results.csv.zip**. It consists of decrypted votes. The decryption was realized by the Moscow DIT (Department of Information Technology) -- the developer of the Moscow e-voting system. The file consists of the following columns:
 
 - *timestamp* - time of storing the ballot
 - *candidate* - the name of the candidate
